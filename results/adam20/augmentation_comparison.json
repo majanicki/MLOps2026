@@ -1,0 +1,38 @@
+[
+  {
+    "augmentation": "none",
+    "best_val_acc": 0.5156000256538391,
+    "gain_over_none_pp": 0.0,
+    "gain_over_basic_pp": -13.339996337890625,
+    "epochs_run": 14,
+    "stop_reason": "plateau",
+    "run_id": "6f7aeed675f84257a98a74cde6f50676"
+  },
+  {
+    "augmentation": "basic",
+    "best_val_acc": 0.6489999890327454,
+    "gain_over_none_pp": 13.339996337890625,
+    "gain_over_basic_pp": 0.0,
+    "epochs_run": 20,
+    "stop_reason": "max_epochs",
+    "run_id": "73893f3a11644f259dd7200dbe9c43d4"
+  },
+  {
+    "augmentation": "erasing",
+    "best_val_acc": 0.6358000040054321,
+    "gain_over_none_pp": 12.019997835159302,
+    "gain_over_basic_pp": -1.3199985027313232,
+    "epochs_run": 20,
+    "stop_reason": "max_epochs",
+    "run_id": "0896cbb062f24432951550b3edded237"
+  },
+  {
+    "augmentation": "randaugment",
+    "best_val_acc": 0.629800021648407,
+    "gain_over_none_pp": 11.419999599456787,
+    "gain_over_basic_pp": -1.919996738433838,
+    "epochs_run": 20,
+    "stop_reason": "max_epochs",
+    "run_id": "90ca53c8554a468dbe1c554f9b17124e"
+  }
+]

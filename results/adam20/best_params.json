@@ -1,0 +1,7 @@
+{
+  "optimizer": "adam",
+  "batch_size": 256,
+  "lr": 0.0015677779736859088,
+  "weight_decay": 1.8675879840826407e-06,
+  "label_smoothing": 0.058188873869117703
+}

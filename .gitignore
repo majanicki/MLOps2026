@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.db-*
+*.log
+*.ckpt
+data/
+backups/
+mlartifacts/
+mlruns/
+lightning_logs/
+1/
+
+# Keep only the final experiment's exported results.
+results/*
+!results/adam20/
+results/adam20/checkpoints/
+results/adam20/train_executed.py
+results/adam20/*.json
+!results/adam20/comparison.json
+!results/adam20/best_params.json
+!results/adam20/augmentation_comparison.json
