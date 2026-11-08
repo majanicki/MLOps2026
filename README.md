@@ -1,6 +1,6 @@
 # CIFAR-100 classification
 
-Homework 1: train ResNet-18 with PyTorch Lightning, log experiments in MLflow, and tune hyperparameters with Optuna. See [the assignment](HOMEWORK1.MD).
+Homework 1: train ResNet-18 with PyTorch Lightning, log experiments in MLflow, and tune hyperparameters with Optuna.
 
 ## Setup and training
 
