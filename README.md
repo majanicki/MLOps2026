@@ -74,3 +74,5 @@ At the fixed baseline parameters:
 Crop/flip was best in the controlled comparison. The joint search selected erasing with different numerical settings. These are single-seed results; validation was used for selection and the test score is a separate evaluation.
 
 [Learning curves](results/adam20/learning_curves.png) · [Optuna trials](results/adam20/tuning_trials.png) · [Augmentation comparison](results/adam20/augmentation_comparison.png) · [Trial parameters](results/adam20/trials.csv) · [Results and configuration](results/adam20/comparison.json)
+
+[MLflow screenshots](results/adam20/screenshots/README.md)
